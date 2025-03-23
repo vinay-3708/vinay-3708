@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a96df64a-58e7-4155-8a39-cb654449debc)# 👋 Hi there, I'm VINAYKUMAR MATAM!
+# 👋 Hi there, I'm VINAYKUMAR MATAM!
 
 ## 🚀 About Me
 I'm a skilled **DevOps Engineer** with over 3.5 years of hands-on experience in:
