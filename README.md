@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm VINAYKUMAR MATAM!
+![image](https://github.com/user-attachments/assets/a96df64a-58e7-4155-8a39-cb654449debc)# 👋 Hi there, I'm VINAYKUMAR MATAM!
 
 ## 🚀 About Me
 I'm a skilled **DevOps Engineer** with over 3.5 years of hands-on experience in:
@@ -34,7 +34,7 @@ I thrive in solving complex problems, continuously learning, and implementing cu
 ### 🎯 Event-Driven Architecture for SOAR solution
 - Designed and implemented a serverless solution for detecting and remediating security **(SOAR)** misconfigurations across multi-cloud environments from central management azure account.
 
-### Automated evidence extraction for security frameworks audit
+### 🔍 Automated evidence extraction for security frameworks audit
 - This is a Python project automates the collection of evidence for security framework controls (e.g., PCI-DSS/NIST/CIS) and generates a comprehensive Excel sheet for audit purposes which ultimately reduces the TAT in audits.
 
 ### 🌍 Infrastructure Provisioning with Terraform and Terraform Cloud
