@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm VINAYKUMAR MATAM!
 
 ## 🚀 About Me
-I'm a skilled **DevOps Engineer** with over 3.5 years of hands-on experience in:
+I'm a skilled **DevOps Engineer** and **MLOps enthusiastic** with over 3.5 years of hands-on experience in:
 - Managing resources on **AWS**, **Azure**, and **GCP** platforms.
 - Building seamless **CI/CD Pipelines** to streamline deployments.
 - Integrating and automating **DevOps tools** for optimized application delivery.
